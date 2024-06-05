@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.logout-link {
+    margin-left: auto;
+}
+
+.logout-link a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #dc3545;
+}
+
+.logout-link a:hover {
+    background-color: #c82333;
+}

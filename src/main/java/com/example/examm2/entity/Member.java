@@ -17,8 +17,8 @@ public class Member {
         return userId;
     }
 
-    public void setUser_id(String user_id) {
-        this.userId = user_id;
+    public void setUser_id(String userId) {
+        this.userId = userId;
     }
 
     public String getPassword() {
